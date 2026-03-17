@@ -35,5 +35,5 @@
     </record>
   </array>
   <null name="target_server_version"/>
-  <value name="name">OrderEntry</value>
+  <value name="name">wmOrderEntry</value>
 </Values>
